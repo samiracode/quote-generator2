@@ -5,6 +5,7 @@ This is an app for creating insightful quoets.
 + Writing readble, scalable and well structured code.
 + Using an API with more than 80,000 quotes.
 + Possibility to share every quote on Twitter directly from the web page.
++ Creating a responsive design on UI.
 ## Future Development  
 + Adding a back button to be able to go back on the quotes already pased to quote container
 ## Visit the website  
